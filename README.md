@@ -9,6 +9,8 @@
 <a href="https://www.figma.com/file/jVTmhpP2hSllQychUkFN7O/jhoan-santiago-roa-lugo?type=design&node-id=0%3A1&mode=design&t=OwQCxVGbKWz7XiRS-1">link de figma</a>
 
 <h2>punto 2: Diseño en HTML</h2>
+<img src="./public/images/punto-2.png" 
+alt="punto 2">
 
 <h2>punto 3: Diseño con CSS</h2>
 
