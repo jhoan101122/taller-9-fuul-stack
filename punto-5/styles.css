@@ -1,0 +1,22 @@
+p{
+text-align: justify;
+}
+.subrayada{
+    color: greenyellow;
+}
+.red_1{
+    color: red;
+}
+.decoration{
+    text-decoration:overline underline;
+}
+.big_1{
+    font-weight: 900;
+    font-size: xx-large;
+}
+.blue_1{
+    color: blue;
+}
+.red_2{
+    color: red;
+}
