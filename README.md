@@ -15,8 +15,12 @@ alt="punto 2">
 <h2>punto 3: Diseño con CSS</h2>
 
 <h2>punto 4: Titulos</h2>
+<img src="./public/images/punto 4.png"
+alt="punto 4">
 
 <h2>punto 5: Parrafo</h2>
+<img src="./public/images/punto-5.png"
+alt="punto 5">
 
 <h2>punto 6: Links</h2>
 
