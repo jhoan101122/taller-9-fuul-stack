@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(238, 255, 5);
+    margin: 200px 100px;
+}
+table{
+    border: 1px dotted black ;
+    border-bottom: 1px dashed  red;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px dotted black;
+    border-collapse: collapse;
+}
+td{
+    border: 1px dotted black;
+    border-collapse: collapse;
+}
+tr th{
+    color: red;
+    font-style: italic;
+}
