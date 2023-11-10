@@ -4,6 +4,8 @@
 <p>profesor: Cristian Patiño</p>
 
 <h2>Link de la pagina web</h2>
+<a href="https://jhoan101122.github.io/taller-9-fuul-stack/"
+alt="link de pagina web">
 
 <h2>punto 1: Link de figma</h2>
 <a href="https://www.figma.com/file/git /jhoan-santiago-roa-lugo?type=design&node-id=0%3A1&mode=design&t=OwQCxVGbKWz7XiRS-1">link de figma</a>
